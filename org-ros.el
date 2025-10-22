@@ -40,7 +40,7 @@
   "Secondary screencapture software, if first fails to load (usually set to MacOS systems)."
   :type 'string)
 
-(defcustom org-ros-secondary-screencapture-switch "-s"
+(defcustom org-ros-secondary-screencapture-switch "-i"
   "Secondary screencapture software selection switch."
   :type 'string)
 
